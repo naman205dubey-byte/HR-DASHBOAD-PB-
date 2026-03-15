@@ -26,7 +26,7 @@ This dashboard helps HR teams analyze employee data and monitor key workforce me
 - Work distance distribution
 
 ## Dashboard Preview
-![HR Dashboard](images/hr_dashboard.png)
+![HR Dashboard](https://github.com/naman205dubey-byte/HR-DASHBOAD-PB-/blob/main/HR%20DASHBOARD.png)
 
 ## Project Files
 - Power BI Dashboard (.pbix)
